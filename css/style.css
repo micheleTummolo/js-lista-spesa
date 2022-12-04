@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(0, 96, 181);
+} 
+
+.content {
+    width: 360px;
+    border-radius: 20px;
+}
+
+.items {
+    font-size: 1.5rem;
+}
